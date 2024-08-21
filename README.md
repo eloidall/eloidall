@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eloidall
-- 👀 I’m interested in: Machine Learning, Data Analytics
-- 🌱 I’m currently learning: 
+- 👀 I’m interested in: Data Analytics, Data Science, Machine Learning
+- 🌱 I’m currently learning: SQL, Power BI, AWS 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: eloi.dallaire@gmail.com
 
