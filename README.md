@@ -10,7 +10,7 @@ Programming & Markup Languages: Python, R, SQL, C, Bash, Power BI, Java, OCaml, 
 Tools & Frameworks: Jupyter Notebook, Matplotlib, MySQL, NumPy, Pandas, R-Studio, Seaborn, Spyder, VSCode, Yahoo Finance API
 
 # Projects & Personal Learning 🚀
-Feel free to explore my portfolio to discover the projects I'm currently working on and the latest skills I'm acquiring on my own journey.
+Feel free to explore my [portfolio](https://github.com/eloidall/eloidall/blob/main/GitHub_Portfolio_Summary.md) to discover the projects I'm currently working on and the latest skills I'm acquiring on my own journey.
 
 # Connect with Me 🤝
 Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/eloidallaire/) !
