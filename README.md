@@ -7,7 +7,7 @@ Outside of work and academics, I enjoy cooking 🧑‍🍳, travelling 🌎 (24+
 # Tech Stack 💻
 Programming & Markup Languages: Python, R, SQL, C, Bash, Power BI, Java, OCaml, Logisim
 
-Tools & Frameworks: Jupyter Notebook, Matplotlib, MySQL, NumPy, Pandas, R-Studio, Seaborn, Spyder, VSCode, Yahoo Finance API
+Tools & Frameworks: Jupyter Notebook, Matplotlib, MySQL, NumPy, Pandas, R-Studio, Seaborn, Spyder, VSCode, IBM Cognos, Yahoo Finance API
 
 # Projects & Personal Learning 🚀
 Feel free to explore my [portfolio](https://github.com/eloidall/portfolio) to discover the projects I'm currently working on and the latest skills I'm acquiring on my own journey.
