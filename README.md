@@ -1,16 +1,18 @@
-# About Me 🌱
-My name is Éloi and I am newly graduate from McGill University 🇨🇦 where I majored in Business Analytics, Accounting and Computer Science. 
-I am passionate about learning data analytics ✨, especially visualization as it is a powerful tool for storytelling 📖.
+# Hello, I'm Éloi! 🌱
 
-Outside of work and academics, I enjoy cooking 🧑‍🍳, travelling 🌎 (24+ countries), running 🏃‍♂️, golf ⛳ and Formula 1 🏁.  
+I recently graduated from McGill University 🇨🇦 with a focus in Business Analytics, Accounting, and Computer Science. 
 
-# Tech Stack 💻
-Programming & Markup Languages: Python, R, SQL, C, Bash, Power BI, Java, OCaml, Logisim
+When I’m not diving into data, you’ll find me experimenting in the kitchen 🧑‍🍳, exploring new destinations 🌍 (24+ countries and counting), running 🏃‍♂️, playing golf ⛳, or keeping up with Formula 1 🏁.
 
-Tools & Frameworks: Jupyter Notebook, Matplotlib, MySQL, NumPy, Pandas, R-Studio, Seaborn, Spyder, VSCode, IBM Cognos, Yahoo Finance API
+## My Skillset 💻
+**Programming & Markup Languages:**  
+Python, R, SQL, C, Bash, Power BI, Java, OCaml, Logisim
 
-# Projects & Personal Learning 🚀
-Feel free to explore my [portfolio](https://github.com/eloidall/portfolio) to discover the projects I'm currently working on and the latest skills I'm acquiring on my own journey.
+**Tools & Frameworks:**  
+Jupyter Notebook, Matplotlib, MySQL, NumPy, Pandas, RStudio, Seaborn, Spyder, VSCode, IBM Cognos, Yahoo Finance API
 
-# Connect with Me 🤝
-Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/eloidallaire/) !
+## Check Out My Work
+Head over to my [portfolio](https://github.com/eloidall/portfolio) for a closer look at my projects and the skills I’m honing on my personal learning journey.
+
+## Let’s Connect 🤝
+I’d love to connect! Reach out to me on [LinkedIn](https://www.linkedin.com/in/eloidallaire/).
