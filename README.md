@@ -2,7 +2,7 @@
 
 I recently graduated from McGill University with a focus in Business Analytics, Accounting, and Computer Science. 
 
-When I’m not diving into data, you’ll find me experimenting in the kitchen 🧑‍🍳, exploring new destinations 🌍 (24+ countries and counting), running 🏃‍♂️, playing golf ⛳, or keeping up with Formula 1 🏁.
+When I’m not diving into data, you’ll find me experimenting in the kitchen 🧑‍🍳, exploring new destinations 🌍 (24+ countries and counting), running 🏃‍♂️, scuba diving 🤿, playing golf ⛳, or keeping up with Formula 1 🏁.
 
 ## My Skillset🔋
 **Programming & Markup Languages:**  
